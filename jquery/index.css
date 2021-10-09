@@ -1,0 +1,30 @@
+#act1 img{
+    width: 500px;
+    height: 500px;
+}
+
+#act2 img{
+    width: 500px;
+    height: 500px;
+}
+
+body{
+    margin:20px;
+    padding:20px;
+}
+
+header{
+    text-align: center;
+}
+
+#act1{
+    padding:30px;
+}
+#act2{
+    padding:30px;
+    
+}
+#act3{
+    padding:30px;
+}
+
